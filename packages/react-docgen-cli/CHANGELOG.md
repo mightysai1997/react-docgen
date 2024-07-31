@@ -1,17 +1,28 @@
 # Release Notes
 
+## 2.0.4
+
+### Patch Changes
+
+- [#931](https://github.com/reactjs/react-docgen/pull/931)
+  [`a10dd0c`](https://github.com/reactjs/react-docgen/commit/a10dd0c782f053b648cf9bab2042a9d31245fc3d)
+  Thanks [@renovate](https://github.com/apps/renovate)! - fix(deps): update
+  dependency debug to v4.3.5
+
 ## 2.0.3
 
 ### Patch Changes
 
-- Updated dependencies [[`afe8d02`](https://github.com/reactjs/react-docgen/commit/afe8d022d058a5d49c6fc144fb165c02f4a764d9)]:
+- Updated dependencies
+  [[`afe8d02`](https://github.com/reactjs/react-docgen/commit/afe8d022d058a5d49c6fc144fb165c02f4a764d9)]:
   - react-docgen@7.0.3
 
 ## 2.0.2
 
 ### Patch Changes
 
-- Updated dependencies [[`64bf1aa`](https://github.com/reactjs/react-docgen/commit/64bf1aa078148b4d44f8634252e5b726e24b8ee5)]:
+- Updated dependencies
+  [[`64bf1aa`](https://github.com/reactjs/react-docgen/commit/64bf1aa078148b4d44f8634252e5b726e24b8ee5)]:
   - react-docgen@7.0.2
 
 ## 2.0.1
